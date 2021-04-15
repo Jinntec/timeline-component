@@ -1,3 +1,4 @@
+# This repo is the base for the integration of the timeline component into [tei-publisher-components](https://github.com/eeditiones/tei-publisher-components)
 # Timeline Component for KBA / TEIPublisher
 
 Component to display a timeline (barchart) of search results. Build with lit-element. [Check out the interactive demo](https://dcts-timeline.web.app/).
